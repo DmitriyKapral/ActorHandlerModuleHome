@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\bin\Debug\netcoreapp3.1\ActorHandlerModuleHome.deps.json
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\bin\Debug\netcoreapp3.1\ActorHandlerModuleHome.dll
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\bin\Debug\netcoreapp3.1\ActorHandlerModuleHome.pdb
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\bin\Debug\netcoreapp3.1\PathsFindingCoreModule.pdb
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\obj\Debug\netcoreapp3.1\ActorHandlerModuleHome.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\obj\Debug\netcoreapp3.1\ActorHandlerModuleHome.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\obj\Debug\netcoreapp3.1\ActorHandlerModuleHome.AssemblyInfo.cs
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\obj\Debug\netcoreapp3.1\ActorHandlerModuleHome.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\obj\Debug\netcoreapp3.1\ActorHandlerModuleHome.csproj.CopyComplete
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\obj\Debug\netcoreapp3.1\ActorHandlerModuleHome.dll
+C:\Users\User\source\repos\ActorHandlerModuleHome\ActorHandlerModuleHome\obj\Debug\netcoreapp3.1\ActorHandlerModuleHome.pdb
